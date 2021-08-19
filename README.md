@@ -1,6 +1,6 @@
 ## Hello, I'm Kleiton Andrade - aka [B1NT0N]
 
-### I'm Stundent, Developer, and a Cience Entusiants!!
+### I'm a Student, Developer, and a Science Enthusiast!!
 
 - 🔭 I'm studying Electrical Engineering
 - 🌱 I'm currently learning everything
@@ -10,8 +10,8 @@
 ---
  <div>
   <a href="https://github.com/B1NT0N">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=B1NT0N&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1NT0N&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=B1NT0N&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1NT0N&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ---
