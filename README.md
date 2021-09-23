@@ -2,7 +2,7 @@
 <div>
   <img align="right" alt="Gif" width="150px" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
 </div>
-### I'm a Student, Developer, and a Science Enthusiast!!
+<h2> I'm a Student, Developer, and a Science Enthusiast!!</h2>
 
 - 🔭 I'm studying Electrical Engineering
 - 🌱 I'm currently learning everything
