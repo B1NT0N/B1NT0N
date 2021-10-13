@@ -5,7 +5,7 @@
 <h3> I'm a Student, Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I'm studying Electrical Engineering
-- 🌱 I'm currently learning everything
+- 📚 I'm currently learning everything
 - 🥅 2021 Goals: Contribute more and Learn even more
 - ⚡ Fun fact: I'm kinda lazy but also very  focused
 
