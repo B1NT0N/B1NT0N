@@ -1,4 +1,5 @@
 ## Hello, I'm Kleiton Andrade - aka [B1NT0N]
+
 <div>
   <img align="right" alt="Gif"height="160em" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
 </div>
@@ -9,6 +10,7 @@
 - 🥅 2021 Goals: Contribute more and Learn even more
 - ⚡ Fun fact: I'm kinda lazy but also very  focused
 
+
 ---
  <div>
   <a href="https://github.com/B1NT0N">
@@ -17,7 +19,7 @@
 </div>
 
  ---
-### Languages and Tools:
+### Languages, Tools nad Standards:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,6 +32,8 @@
 <img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" />  
+<img align="right" alt="Open Source Hardware" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" />
+<img align="right" alt="Open Source Iniciative" width="40px" src="https://i.ibb.co/412hzyj/osi-reversing-logotype-color-to-white-1-Photo-Room-2.png" />
 <br />
  
 ### Connect with me:
@@ -41,6 +45,8 @@
   <a href="https://www.facebook.com/kleiton.andrade01" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1773ea?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://t.me/B1NT0N" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
+
+  
 [facebook]: https://www.facebook.com/kleiton.andrade01
 [twitter]: https://twitter.com/KleitonAndrad12
 [instagram]: https://www.instagram.com/bin_kleiton/
