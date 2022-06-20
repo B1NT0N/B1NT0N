@@ -1,6 +1,6 @@
 ## Hello, I'm Kleiton Andrade - aka [B1NT0N]
 <div>
-  <img align="right" alt="Gif" width="150px" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
+  <img align="right" alt="Gif"height="160em" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
 </div>
 <h3> I'm a Student, Developer, and a Science Enthusiast!!</h3>
 
