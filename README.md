@@ -31,10 +31,15 @@
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" />  
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" /> 
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+
 <img align="right" alt="Open Source Hardware" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" />
 <img align="right" alt="Open Source Iniciative" width="40px" src="https://i.ibb.co/412hzyj/osi-reversing-logotype-color-to-white-1-Photo-Room-2.png" />
+
 <br />
+
  
 ### Connect with me:
 
