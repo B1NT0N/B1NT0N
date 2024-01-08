@@ -3,12 +3,12 @@
 <div>
   <img align="right" alt="Gif"height="160em" src="https://www.puttiapps.com/wp-content/uploads/2021/05/Training-and-Application.gif"/>
 </div>
-<h3> I'm a Student, Developer, and a Science Enthusiast!!</h3>
+<h3> I'm a Engineer, Developer, and a Science Enthusiast!!</h3>
 
-- 🔭 I'm studying Electrical Engineering
-- 📚 I'm currently learning everything
-- 🥅 2022 Goals: Contribute more and Learn even more
-- ⚡ Fun fact: I'm kinda lazy but also very  focused
+- 🔭 I'm a Electrotechnical and Telecommunication Engineering
+- 📚 I'm currently learning SDR Technologies and applications
+- 🥅 2024 Goals: Contribute more and Learn even more
+- ⚡ Fun fact: I'm kinda lazy but also very focused
 
 
 ---
