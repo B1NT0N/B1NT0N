@@ -7,7 +7,7 @@
 
 - 🔭 I'm a Electrotechnical and Telecommunication Engineering
 - 📚 I'm currently learning SDR Technologies and applications
-- 🥅 2024 Goals: Contribute more and Learn even more
+- 🥅 Current Goals: Contribute more and Learn even more
 - ⚡ Fun fact: I'm kinda lazy but also very focused
 
 
